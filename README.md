@@ -1,4 +1,4 @@
-# Yogesh Pusarla — Portfolio
+# Yogesh Pusarla — Portfolio 
 
 Vite + React + Tailwind minimalist portfolio. Light/dark/auto themes, highlights, skills, experience, and Featured Articles linked to LinkedIn.
 
